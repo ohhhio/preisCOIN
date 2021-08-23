@@ -13,7 +13,7 @@
 ```console
 
 # clone o repositório
-$ git clone https://github.com/muradpontes/preisCoin.git
+$ git clone https://github.com/ohhhio/preisCOIN.git
 
 # mude para a pasta do preisCoin
 $ cd preisCoin
